@@ -1,0 +1,126 @@
+/* **************************
+    导航
+	************************ */
+	header
+	{
+		/*background:#0C9;*/
+		/*border-color:#6F9;*/
+		float:top;
+		margin:0 0 2% 0;
+	
+		
+		
+		}
+				
+nav{
+	text-align:center;
+	padding:0;
+	margin:0 ;
+
+	
+	
+	}
+	nav a.selected,nav a:hover{
+		color:#066;
+		
+		}
+		nav.img{
+			width:100%;
+		
+			
+			}
+	
+	nav ul{
+		list-style:none;
+		margin:-10px;
+		padding:10px;
+		background:#0C9;
+		
+		
+		}
+	nav li
+	{
+		display:inline;
+		
+		
+		
+		
+		}
+		nav a{
+			padding:0;
+			font-weight:800;
+			color:#FFF;
+			font-size:1rem;
+			margin:0 2%;
+		
+		
+			
+			
+		
+			}
+
+
+
+
+
+a{
+	text-decoration:none;
+	}
+	#wrapper
+	{
+		max-width:940px;
+		padding:0 %5;
+		margin:0 auto;
+		
+		}
+		body
+		{
+			background-color:#fff;
+			color:#999;
+			}
+/* *****************************
+   相册
+   ***************************** */
+   img{
+	   max-width:100%}
+   #gallery
+   {
+	   margin:0;
+	   padding:0;
+	   list-style:none;
+	   }
+	   #gallery li
+	   {
+		   float:left;
+		   width:45%;
+		   margin:2.5%;
+		   background-color:#f5f5f5;
+		   color:#bdc3c7;
+		   }
+		   #gallery li a p{
+			   margin:0;
+			   padding:5%;
+			   font-size:0.75em;
+			   font-weight:800;
+			   font-family:"黑体";
+			   color:#0C9;}
+
+	/* **********************
+      	页脚
+		********************* */
+	footer{
+		font-size:0.75em;
+		
+		text-align:center;
+		padding-top:50px;
+		color:#ccc;
+		font-weight:800;
+		clear:both;
+			
+		
+		}
+		.icon{
+			width:30px;
+			height:30px;
+			margin:0 5px;
+			}
